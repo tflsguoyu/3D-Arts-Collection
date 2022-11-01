@@ -1,1 +1,1 @@
-# 3D-Arts-Collection
+# 3D Arts Human Collection
