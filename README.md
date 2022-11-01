@@ -7,4 +7,6 @@
 <a href="https://www.artstation.com/artwork/J9B6aa">
   <img src="https://github.com/tflsguoyu/Meta-Human/blob/master/images/Artur_Tarnowski.jpg" title="" height="256px">
 </a>
-
+<a href="https://www.artstation.com/artwork/wJQJg9">
+  <img src="https://github.com/tflsguoyu/Meta-Human/blob/master/images/村口朱师傅.jpg" title="" height="256px">
+</a>
