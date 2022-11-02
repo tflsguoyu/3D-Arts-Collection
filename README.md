@@ -13,8 +13,8 @@
 <a href="https://www.artstation.com/artwork/lR5qao">
   <img src="https://github.com/tflsguoyu/Meta-Human/blob/master/images/Forever.jpg" title="" height="256px">
 </a>
-<a href="https://www.artstation.com/artwork/lR8yy5">
-  <img src="https://github.com/tflsguoyu/Meta-Human/blob/master/images/An_Seong_Won.gif" title="" height="256px">
+<a href="https://www.artstation.com/artwork/kl2532">
+  <img src="https://github.com/tflsguoyu/Meta-Human/blob/master/images/SeongHwan_Jang.gif" title="" height="256px">
 </a>
 <a href="https://www.artstation.com/artwork/vJQ083">
   <img src="https://github.com/tflsguoyu/Meta-Human/blob/master/images/Aobo_Li.jpg" title="" height="256px">
@@ -63,8 +63,5 @@
 </a>
 <a href="https://www.artstation.com/artwork/YeAedY">
   <img src="https://github.com/tflsguoyu/Meta-Human/blob/master/images/HAMAMA7.jpg" title="" height="256px">
-</a>
-<a href="https://www.artstation.com/artwork/kl2532">
-  <img src="https://github.com/tflsguoyu/Meta-Human/blob/master/images/3085106626.mp4" title="" height="256px">
 </a>
 
