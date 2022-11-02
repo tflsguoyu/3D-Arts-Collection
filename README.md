@@ -19,4 +19,7 @@
 <a href="https://www.artstation.com/artwork/lRqvAV">
   <img src="https://github.com/tflsguoyu/Meta-Human/blob/master/images/Minsu_Kim.jpg" title="" height="256px">
 </a>
+<a href="https://www.artstation.com/artwork/03VVAE">
+  <img src="https://github.com/tflsguoyu/Meta-Human/blob/master/images/Linyang_Chen.jpg" title="" height="256px">
+</a>
 
