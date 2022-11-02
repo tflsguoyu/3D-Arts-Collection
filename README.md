@@ -22,4 +22,7 @@
 <a href="https://www.artstation.com/artwork/03VVAE">
   <img src="https://github.com/tflsguoyu/Meta-Human/blob/master/images/Linyang_Chen.jpg" title="" height="256px">
 </a>
+<a href="https://www.artstation.com/artwork/8el28G">
+  <img src="https://github.com/tflsguoyu/Meta-Human/blob/master/images/Soa_Lee.jpg" title="" height="256px">
+</a>
 
